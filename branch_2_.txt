@@ -1,1 +1,3 @@
 second branch
+b2 txtfile modified
+this branch will be rebased
