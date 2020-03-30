@@ -1,2 +1,1 @@
-first branch
-b1_txt_file_modified
+branch_1 merged
